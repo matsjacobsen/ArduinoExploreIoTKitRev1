@@ -20,7 +20,7 @@ void setup() {
   // Initialize the serial communication at 9600 baud rate
   Serial.begin(9600);
 }
-
+Serial.Print("Tuff tuff");
 
 void loop() {
   // Your code goes here
