@@ -1,3 +1,4 @@
+Hi dette er Hafrun
 /*
 Author      : Teeraphat Kullanankanjana
 Version     : 1.0
@@ -24,4 +25,3 @@ void setup() {
 void loop() {
   // Your code goes here
 }
-
