@@ -25,3 +25,6 @@ Serial.Print("Tuff tuff");
 void loop() {
   // Your code goes here
 }
+
+
+//dette gåsje
